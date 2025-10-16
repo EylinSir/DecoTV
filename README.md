@@ -174,7 +174,7 @@ networks:
 ```yml
 services:
   decotv-core:
-    image: ghcr.io/decohererk/decotv:latest
+    image: ghcr.io/eylinsir/decotv:latest
     container_name: decotv-core
     restart: on-failure
     ports:
@@ -419,6 +419,6 @@ NEXT_PUBLIC_STORAGE_TYPE=redis  # 或 upstash、kvrocks
     <strong>🌟 如果觉得项目有用，请点个 Star 支持一下！🌟</strong>
   </p>
   <p>
-    <sub>Made with ❤️ by <a href="https://github.com/Decohererk">Decohererk</a> and <a href="https://github.com/Decohererk/DecoTV/graphs/contributors">Contributors</a></sub>
+    <sub>Made with ❤️ by <a href="https://github.com/EylinSir">Decohererk</a> and <a href="https://github.com/EylinSir/DecoTV/graphs/contributors">Contributors</a></sub>
   </p>
 </div>
