@@ -396,21 +396,21 @@ NEXT_PUBLIC_STORAGE_TYPE=redis  # 或 upstash、kvrocks
   </a>
 </div>
 
-## 💝 赞赏支持
+//## 💝 赞赏支持
 
-如果这个项目对你有所帮助，欢迎 Star ⭐ 本项目或请作者喝杯咖啡 ☕
+//如果这个项目对你有所帮助，欢迎 Star ⭐ 本项目或请作者喝杯咖啡 ☕
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="public/wechat.jpg" alt="微信赞赏" width="200">
-        <br>
-        <sub><b>🎨 微信赞赏</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+//<div align="center">
+//  <table>
+//    <tr>
+ //     <td align="center">
+  //      <img src="public/wechat.jpg" alt="微信赞赏" width="200">
+ //       <br>
+//        <sub><b>🎨 微信赞赏</b></sub>
+//      </td>
+//    </tr>
+//  </table>
+//</div>
 
 ---
 
