@@ -2,7 +2,10 @@
 
 # DecoTV
 
-<div align="center"src="public/logo.png" alt="DecoTV Logo" width="120">
+原项目地址https://github.com/MoonTechLab/LunaTV
+
+<div align="center">
+  <img src="public/logo.png" alt="LibreTV Logo" width="120">
 </div>
 
 > 🎬 **DecoTV** 是一个开箱即用的、跨平台的影视聚合播放器。它基于 **Next.js 14** + **Tailwind&nbsp;CSS** + **TypeScript** 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。
