@@ -2,7 +2,7 @@
 
 # DecoTV
 
-原项目地址[https://github.com/MoonTechLab/LunaTV](https://github.com/Decohererk/DecoTV)
+原项目地址：https://github.com/Decohererk/DecoTV
 
 <div align="center">
   <img src="public/logo.png" alt="DecoTV Logo" width="120">
